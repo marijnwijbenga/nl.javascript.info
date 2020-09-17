@@ -1,16 +1,18 @@
-# An Introduction to JavaScript
+# Een introductie in JavaScript
 
+Laten we eens zien wat er nou zo speciaal is aan JavaScript, wat we ermee kunnen bereiken en met welke andere technologieën het goed samenwerkt. 
 Let's see what's so special about JavaScript, what we can achieve with it, and which other technologies play well with it.
 
-## What is JavaScript?
+## Wat is JavaScript?
 
-*JavaScript* was initially created to "make web pages alive".
 
-The programs in this language are called *scripts*. They can be written right in a web page's HTML and run automatically as the page loads.
+*JavaScript* is oorspronkelijk gemaakt om webpagina's "tot leven te laten komen".
 
-Scripts are provided and executed as plain text. They don't need special preparation or compilation to run.
+De programma's in deze taal noemen we *scripts*. Deze kan je rechtstreeks in de HTML van een webpagina schrijven, en starten vanzelf wanneer de pagina laadt.
 
-In this aspect, JavaScript is very different from another language called [Java](https://en.wikipedia.org/wiki/Java_(programming_language)).
+Scripts worden aangeleverd en uitgevoerd als gewone tekst. Ze hebben geen verdere behandeling nodig en hoeven niet gecompileerd te worden.
+
+In dit aspect is JavaScript heel anders dan een andere programmeertaal genaamd [Java](https://nl.wikipedia.org/wiki/Java_(programmeertaal)).
 
 ```smart header="Why is it called <u>Java</u>Script?"
 When JavaScript was created, it initially had another name: "LiveScript". But Java was very popular at that time, so it was decided that positioning a new language as a "younger brother" of Java would help.
