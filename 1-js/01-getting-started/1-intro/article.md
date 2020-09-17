@@ -25,7 +25,7 @@ Verschillende engines hebben verschillende "codenamen". Bijvoorbeeld:
 - [SpiderMonkey](https://en.wikipedia.org/wiki/SpiderMonkey) -- in Firefox.
 - ...Er zijn andere codenamen zoals "Trident" en "Chakra" voor andere versies van IE, "ChakraCore" voor Microsoft Edge, "Nitro" en "SquirrelFish" voor Safari, etc.
 
-De termen hierboven zijn goed om te onthouden omdat ze vaak worden gebruikt in artikelen over software ontwikkelen op het internet. Wij zullen ze hier ook gebruiken. Bijvoorbeeld: als " feature x wordt ondersteund door V8",  dan werkt het waarschijnlijk ook in Chrome en Opera.
+De termen hierboven zijn goed om te onthouden omdat ze vaak worden gebruikt in artikelen over software ontwikkelen op het internet. Wij zullen ze hier ook gebruiken, bijvoorbeeld: "Als feature x wordt ondersteund door V8, werkt het waarschijnlijk ook in Chrome en Opera."
 
 ```smart header="How do engines work?"
 
