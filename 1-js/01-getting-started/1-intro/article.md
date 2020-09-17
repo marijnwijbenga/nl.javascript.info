@@ -1,4 +1,4 @@
-# Een introductie in JavaScript
+# JavaScript, een introductie.
 
 Laten we eens zien wat er nou zo speciaal is aan JavaScript, wat we ermee kunnen bereiken en met welke andere technologieën het goed samenwerkt. 
 
@@ -8,17 +8,16 @@ Laten we eens zien wat er nou zo speciaal is aan JavaScript, wat we ermee kunnen
 
 De programma's in deze taal noemen we *scripts*. Deze kan je rechtstreeks in de HTML van een webpagina schrijven, en starten vanzelf wanneer de pagina laadt.
 
-Scripts worden aangeleverd en uitgevoerd als gewone tekst. Ze hebben geen verdere behandeling nodig en hoeven niet gecompileerd te worden.
-
-In dit aspect is JavaScript heel anders dan een andere programmeertaal genaamd [Java](https://nl.wikipedia.org/wiki/Java_(programmeertaal)).
+Scripts worden aangeleverd en uitgevoerd als gewone tekst. Ze hebben geen verdere behandeling nodig en behoeven niet gecompileerd te worden. In dit aspect is JavaScript heel anders dan een andere programmeertaal genaamd [Java](https://nl.wikipedia.org/wiki/Java_(programmeertaal)).
 
 ```smart header="Waarom heet het <u>Java</u>Script?"
 Toen JavaScript gemaakt werd had het in eerste instantie een andere naam: "LiveScript". Echter was Java in die tijd erg populair geworden, dus besloot men dat de nieuwe taal positioneren als een "broertje" van Java, kon helpen bij de naamsbekendheid. 
 
-Echter, JavaScript volgroeide tot een volwaardig en op zichzelf staande taal met zijn eigen specificatie genaamd [ECMAScript](https://nl.wikipedia.org/wiki/ECMAScript), en nu is er geen enkele relatie meer met Java.
+Echter, JavaScript groeide uit tot een volwaardig en op zichzelf staande taal met zijn eigen specificatie genaamd [ECMAScript](https://nl.wikipedia.org/wiki/ECMAScript), en nu is er geen enkele relatie meer met Java.
 ```
 
 Today, JavaScript can execute not only in the browser, but also on the server, or actually on any device that has a special program called [the JavaScript engine](https://en.wikipedia.org/wiki/JavaScript_engine).
+Tegenwoordig werkt JavaScript niet alleen maar in de browser, maar ook op een server en op eigenlijk elk apparaat dat een speciaal programma genaamd 
 
 The browser has an embedded engine sometimes called a "JavaScript virtual machine".
 
