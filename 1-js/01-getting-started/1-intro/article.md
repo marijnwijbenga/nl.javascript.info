@@ -1,10 +1,8 @@
 # Een introductie in JavaScript
 
 Laten we eens zien wat er nou zo speciaal is aan JavaScript, wat we ermee kunnen bereiken en met welke andere technologieën het goed samenwerkt. 
-Let's see what's so special about JavaScript, what we can achieve with it, and which other technologies play well with it.
 
 ## Wat is JavaScript?
-
 
 *JavaScript* is oorspronkelijk gemaakt om webpagina's "tot leven te laten komen".
 
