@@ -1,33 +1,31 @@
 # JavaScript, een introductie.
 
-Laten we eens zien wat er nou zo speciaal is aan JavaScript, wat we ermee kunnen bereiken en met welke andere technologieën het goed samenwerkt. 
+Laten we eens zien wat er bijzonder is aan JavaScript, wat we ermee kunnen bereiken en met welke andere technologieën het goed samenwerkt. 
 
 ## Wat is JavaScript?
 
 *JavaScript* is oorspronkelijk gemaakt om webpagina's "tot leven te laten komen".
 
-De programma's in deze taal noemen we *scripts*. Deze kan je rechtstreeks in de HTML van een webpagina schrijven, en starten vanzelf wanneer de pagina laadt.
+De programmatjes's in deze taal noemen we *scripts*. Die kan je rechtstreeks in de HTML van een webpagina plaatsen, en starten vanzelf wanneer de pagina laadt.
 
 Scripts worden aangeleverd en uitgevoerd als gewone tekst. Ze hebben geen verdere behandeling nodig en behoeven niet gecompileerd te worden. In dit aspect is JavaScript heel anders dan een andere programmeertaal genaamd [Java](https://nl.wikipedia.org/wiki/Java_(programmeertaal)).
 
 ```smart header="Waarom heet het <u>Java</u>Script?"
 Toen JavaScript gemaakt werd had het in eerste instantie een andere naam: "LiveScript". Echter was Java in die tijd erg populair geworden, dus besloot men dat de nieuwe taal positioneren als een "broertje" van Java, kon helpen bij de naamsbekendheid. 
 
-Echter, JavaScript groeide uit tot een volwaardig en op zichzelf staande taal met zijn eigen specificatie genaamd [ECMAScript](https://nl.wikipedia.org/wiki/ECMAScript), en nu is er geen enkele relatie meer met Java.
+Echter, JavaScript groeide uit tot een volwaardige en op zichzelf staande taal met zijn eigen specificatie genaamd [ECMAScript](https://nl.wikipedia.org/wiki/ECMAScript), en nu is er geen enkele relatie meer met Java.
 ```
 
-Today, JavaScript can execute not only in the browser, but also on the server, or actually on any device that has a special program called [the JavaScript engine](https://en.wikipedia.org/wiki/JavaScript_engine).
-Tegenwoordig werkt JavaScript niet alleen maar in de browser, maar ook op een server en op eigenlijk elk apparaat dat een speciaal programma genaamd 
+Tegenwoordig werkt JavaScript niet alleen in de browser, maar ook op de server en op elk apparaat dat een speciaal programma genaamd [the JavaScript engine](https://en.wikipedia.org/wiki/JavaScript_engine) heeft.
 
-The browser has an embedded engine sometimes called a "JavaScript virtual machine".
+De browser heeft een ingebedde engine die ook wel de "Javascript virtual machine" genoemd wordt.
 
-Different engines have different "codenames". For example:
-
+Verschillende engines hebben verschillende "codenamen". Bijvoorbeeld:
 - [V8](https://en.wikipedia.org/wiki/V8_(JavaScript_engine)) -- in Chrome and Opera.
 - [SpiderMonkey](https://en.wikipedia.org/wiki/SpiderMonkey) -- in Firefox.
-- ...There are other codenames like "Trident" and "Chakra" for different versions of IE, "ChakraCore" for Microsoft Edge, "Nitro" and "SquirrelFish" for Safari, etc.
+- ...Er zijn andere codenamen zoals "Trident" en "Chakra" voor andere versies van IE, "ChakraCore" voor Microsoft Edge, "Nitro" en "SquirrelFish" voor Safari, etc.
 
-The terms above are good to remember because they are used in developer articles on the internet. We'll use them too. For instance, if "a feature X is supported by V8", then it probably works in Chrome and Opera.
+De termen hierboven zijn goed om te onthouden omdat ze vaak worden gebruikt in artikelen over software ontwikkelen op het internet. Wij zullen ze hier ook gebruiken. Bijvoorbeeld: als " feature x wordt ondersteund door V8",  dan werkt het waarschijnlijk ook in Chrome en Opera.
 
 ```smart header="How do engines work?"
 
