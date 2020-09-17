@@ -12,10 +12,10 @@ Scripts worden aangeleverd en uitgevoerd als gewone tekst. Ze hebben geen verder
 
 In dit aspect is JavaScript heel anders dan een andere programmeertaal genaamd [Java](https://nl.wikipedia.org/wiki/Java_(programmeertaal)).
 
-```smart header="Why is it called <u>Java</u>Script?"
-When JavaScript was created, it initially had another name: "LiveScript". But Java was very popular at that time, so it was decided that positioning a new language as a "younger brother" of Java would help.
+```smart header="Waarom heet het <u>Java</u>Script?"
+Toen JavaScript gemaakt werd had het in eerste instantie een andere naam: "LiveScript". Echter was Java in die tijd erg populair geworden, dus besloot men dat de nieuwe taal positioneren als een "broertje" van Java, kon helpen bij de naamsbekendheid. 
 
-But as it evolved, JavaScript became a fully independent language with its own specification called [ECMAScript](http://en.wikipedia.org/wiki/ECMAScript), and now it has no relation to Java at all.
+Echter, JavaScript volgroeide tot een volwaardig en op zichzelf staande taal met zijn eigen specificatie genaamd [ECMAScript](https://nl.wikipedia.org/wiki/ECMAScript), en nu is er geen enkele relatie meer met Java.
 ```
 
 Today, JavaScript can execute not only in the browser, but also on the server, or actually on any device that has a special program called [the JavaScript engine](https://en.wikipedia.org/wiki/JavaScript_engine).
