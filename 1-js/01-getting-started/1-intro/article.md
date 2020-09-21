@@ -1,4 +1,4 @@
-# een introductie tot JavaScript.
+# Een introductie tot JavaScript.
 
 Laten we eens zien wat er bijzonder is aan JavaScript, wat we ermee kunnen bereiken en met welke andere technologieën het goed samenwerkt. 
 
