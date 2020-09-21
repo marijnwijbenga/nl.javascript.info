@@ -27,15 +27,16 @@ Verschillende engines hebben verschillende "codenamen". Bijvoorbeeld:
 
 De termen hierboven zijn goed om te onthouden omdat ze vaak worden gebruikt in artikelen over ontwikkelen op het internet. Wij zullen ze hier ook gebruiken, bijvoorbeeld: "Als feature x wordt ondersteund door V8, werkt het waarschijnlijk ook in Chrome en Opera."
 
-```smart header="How do engines work?"
 
-Engines are complicated. But the basics are easy.
+```smart header="Hoe werken engines?"
 
-1. The engine (embedded if it's a browser) reads ("parses") the script.
-2. Then it converts ("compiles") the script to the machine language.
-3. And then the machine code runs, pretty fast.
+Engines zijn ingewikkeld, maar de basis is het vrij simpel.
 
-The engine applies optimizations at each step of the process. It even watches the compiled script as it runs, analyzes the data that flows through it, and further optimizes the machine code based on that knowledge.
+1. De engine (embedded in het geval van de browser) leest ("parsed") het script.
+2. Dan converteert (compiled) het het script naar machine code.
+3. En dan draait de machine code, vrij snel.
+
+De engine past elke stap optimalisaties van het proces toe. Het kijkt zelfs naar het gecompilede script terwijl het loopt, analyseert de data die er doorheen loopt, en optimaliseert de machine code gebaseerd op de opgedane kennis.
 ```
 
 ## What can in-browser JavaScript do?
