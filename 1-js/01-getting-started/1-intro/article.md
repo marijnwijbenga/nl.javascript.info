@@ -30,11 +30,11 @@ De termen hierboven zijn goed om te onthouden omdat ze vaak worden gebruikt in a
 
 ```smart header="Hoe werken engines?"
 
-Engines zijn ingewikkeld, maar de basis is het vrij simpel.
+Engines zijn ingewikkeld, maar in de basis is het vrij simpel.
 
 1. De engine (embedded in het geval van de browser) leest ("parsed") het script.
-2. Dan converteert (compiled) het het script naar machine code.
-3. En dan draait de machine code, vrij snel.
+2. Dan converteert (compiled) het script naar machine code.
+3. En dan wordt de machine code uitgevoerd, vrij snel.
 
 De engine past elke stap optimalisaties van het proces toe. Het kijkt zelfs naar het gecompilede script terwijl het loopt, analyseert de data die er doorheen loopt, en optimaliseert de machine code gebaseerd op de opgedane kennis.
 ```
